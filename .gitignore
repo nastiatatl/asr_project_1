@@ -1,5 +1,5 @@
 # Ignore zip acrhives
-.zip
+*.zip
 
 # Ignore .idea/ folder
-.idea/
+*.idea/
