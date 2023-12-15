@@ -3,3 +3,12 @@
 
 # Ignore .idea/ folder
 *.idea/
+
+# Ignore wav files
+*.wav
+
+# Ignore these folders
+full_output/
+text_segments/
+textgrids/
+wav_segments/
