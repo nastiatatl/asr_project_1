@@ -1,4 +1,4 @@
-# COSI 146 ASR - Assessment 2
+# COSI 136 ASR - Assessment 2
 
 ## Repository files
 
